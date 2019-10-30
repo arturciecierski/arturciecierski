@@ -1,7 +1,6 @@
 # Hello,
 
-## My name is Artur
-## Welcome to my GitHub page
+## My name is Artur, welcome to my GitHub page!
 
 Some of my C# projects:
 
